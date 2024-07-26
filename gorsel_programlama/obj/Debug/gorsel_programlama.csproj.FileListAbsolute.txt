@@ -1,0 +1,11 @@
+C:\Users\Neslihan\source\repos\gorsel_programlama\bin\Debug\gorsel_programlama.exe.config
+C:\Users\Neslihan\source\repos\gorsel_programlama\bin\Debug\gorsel_programlama.exe
+C:\Users\Neslihan\source\repos\gorsel_programlama\bin\Debug\gorsel_programlama.pdb
+C:\Users\Neslihan\source\repos\gorsel_programlama\obj\Debug\gorsel_programlama.csproj.AssemblyReference.cache
+C:\Users\Neslihan\source\repos\gorsel_programlama\obj\Debug\gorsel_programlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Neslihan\source\repos\gorsel_programlama\obj\Debug\gorsel_programlama.Form1.resources
+C:\Users\Neslihan\source\repos\gorsel_programlama\obj\Debug\gorsel_programlama.Properties.Resources.resources
+C:\Users\Neslihan\source\repos\gorsel_programlama\obj\Debug\gorsel_programlama.csproj.GenerateResource.cache
+C:\Users\Neslihan\source\repos\gorsel_programlama\obj\Debug\gorsel_programlama.csproj.CoreCompileInputs.cache
+C:\Users\Neslihan\source\repos\gorsel_programlama\obj\Debug\gorsel_programlama.exe
+C:\Users\Neslihan\source\repos\gorsel_programlama\obj\Debug\gorsel_programlama.pdb

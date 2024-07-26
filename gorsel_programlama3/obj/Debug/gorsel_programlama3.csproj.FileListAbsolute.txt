@@ -1,0 +1,16 @@
+C:\Users\Neslihan\source\repos\gorsel_programlama3\bin\Debug\gorsel_programlama3.exe.config
+C:\Users\Neslihan\source\repos\gorsel_programlama3\bin\Debug\gorsel_programlama3.exe
+C:\Users\Neslihan\source\repos\gorsel_programlama3\bin\Debug\gorsel_programlama3.pdb
+C:\Users\Neslihan\source\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.csproj.AssemblyReference.cache
+C:\Users\Neslihan\source\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Neslihan\source\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.Form1.resources
+C:\Users\Neslihan\source\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.Form2.resources
+C:\Users\Neslihan\source\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.Properties.Resources.resources
+C:\Users\Neslihan\source\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.csproj.GenerateResource.cache
+C:\Users\Neslihan\source\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.csproj.CoreCompileInputs.cache
+C:\Users\Neslihan\source\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.exe
+C:\Users\Neslihan\source\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.pdb
+C:\Users\nesli\OneDrive\Masaüstü\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.csproj.AssemblyReference.cache
+C:\Users\nesli\OneDrive\Masaüstü\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nesli\OneDrive\Masaüstü\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.exe
+C:\Users\nesli\OneDrive\Masaüstü\repos\gorsel_programlama3\obj\Debug\gorsel_programlama3.pdb

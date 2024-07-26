@@ -1,0 +1,8 @@
+C:\Users\Neslihan\source\repos\binary_dosyalama\binary_dosyalama\bin\Debug\binary_dosyalama.exe.config
+C:\Users\Neslihan\source\repos\binary_dosyalama\binary_dosyalama\bin\Debug\binary_dosyalama.exe
+C:\Users\Neslihan\source\repos\binary_dosyalama\binary_dosyalama\bin\Debug\binary_dosyalama.pdb
+C:\Users\Neslihan\source\repos\binary_dosyalama\binary_dosyalama\obj\Debug\binary_dosyalama.csproj.AssemblyReference.cache
+C:\Users\Neslihan\source\repos\binary_dosyalama\binary_dosyalama\obj\Debug\binary_dosyalama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Neslihan\source\repos\binary_dosyalama\binary_dosyalama\obj\Debug\binary_dosyalama.csproj.CoreCompileInputs.cache
+C:\Users\Neslihan\source\repos\binary_dosyalama\binary_dosyalama\obj\Debug\binary_dosyalama.exe
+C:\Users\Neslihan\source\repos\binary_dosyalama\binary_dosyalama\obj\Debug\binary_dosyalama.pdb
