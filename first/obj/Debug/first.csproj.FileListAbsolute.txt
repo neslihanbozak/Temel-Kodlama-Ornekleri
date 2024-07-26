@@ -1,0 +1,8 @@
+C:\Users\nesli\source\repos\first\bin\Debug\first.exe.config
+C:\Users\nesli\source\repos\first\bin\Debug\first.exe
+C:\Users\nesli\source\repos\first\bin\Debug\first.pdb
+C:\Users\nesli\source\repos\first\obj\Debug\first.csproj.AssemblyReference.cache
+C:\Users\nesli\source\repos\first\obj\Debug\first.csproj.SuggestedBindingRedirects.cache
+C:\Users\nesli\source\repos\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\nesli\source\repos\first\obj\Debug\first.exe
+C:\Users\nesli\source\repos\first\obj\Debug\first.pdb
